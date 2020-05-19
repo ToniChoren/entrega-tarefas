@@ -1,6 +1,9 @@
+https://github.com/ToniChoren/BasesDeDatos
+   ___
 # Tarefa 1
 <!--DDL-> https://github.com/ToniChoren/BasesDeDatos/blob/master/ApuntesDDL/README.md
    DML -> https://github.com/ToniChoren/BasesDeDatos/blob/master/ApuntesDML/README.md -->
+   
 # Apuntes DDL
 
 
@@ -397,7 +400,9 @@ WHERE seccion=23;
 
 ***
 
-
+___
+   https://github.com/ToniChoren/BasesDeDatos/blob/master/ApuntesDDL/README.md
+   https://github.com/ToniChoren/BasesDeDatos/blob/master/ApuntesDML/README.md 
 
 
 
