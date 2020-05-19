@@ -4,8 +4,8 @@
 
 # INDICE
 
- [Instalacion Base de datos Naves Espaciales](#5)
- [Instalacion Base de datos Proyecto investigación](#6)
+- [Instalacion Base de datos Naves Espaciales](#5)
+- [Instalacion Base de datos Proyecto investigación](#6)
 
 
 # Creacion Base de datos Naves Espaciales <a name="5"></a>
