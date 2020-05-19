@@ -1,6 +1,6 @@
 # Tarefa 4
 
-#Comandos utiles  de MySQL
+# Comandos utiles  de MySQL
 
 
 - Podemos usar el comando show para mostrar las bases de datos:
