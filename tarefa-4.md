@@ -1,4 +1,4 @@
-https://github.com/ToniChoren/BasesDeDatos
+https://github.com/ToniChoren/BasesDeDatos/blob/master/InstalacionMySQL/readme.md
 ___
 # Tarefa 4
 
@@ -26,6 +26,6 @@ ___
  
  ![Alt text](https://github.com/ToniChoren/BasesDeDatos/blob/master/InstalacionMySQL/capturas/capturas%20ubuntu/desc_planteta.PNG)
 ___
-https://github.com/ToniChoren/BasesDeDatos
+https://github.com/ToniChoren/BasesDeDatos/blob/master/InstalacionMySQL/readme.md
 ___
 
